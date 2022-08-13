@@ -1,0 +1,10 @@
+.Pokedex{
+    margin: auto;
+    padding: 5px;
+    background-color: bisque;
+    width: 140vh;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+
+}
